@@ -101,6 +101,7 @@
 | Tool | Type | Free | Best For | Link |
 |------|------|-------|----------|------|
 | **Suno API** | API | Paid | Programmatic music generation | [suno.com/api](https://suno.com) |
+| **RunAPI Suno SDK** | API/SDK | Paid | Programmatic Suno generation jobs from JavaScript, Ruby, Go, and Python | [github.com/runapi-ai/suno-sdk](https://github.com/runapi-ai/suno-sdk) |
 | **Replicate** | API | Paid | Run MusicGen, other models | [replicate.com](https://replicate.com) |
 | **Hugging Face** | API | Free tier | Host/run open music models | [huggingface.co](https://huggingface.co) |
 | **AudioCraft (Meta)** | Open source | Free | MusicGen, AudioGen models | [github.com/facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) |
